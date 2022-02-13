@@ -1,0 +1,18 @@
+{
+	"prefix": "=",
+	"token": "ODY5ODA3MDY1NjkzMDM2NTk2.YQDk9A.abQ9QqC43doYk_mfu6b663iebac",
+	"clientId": "869807065693036596",
+	"guildId": "170926101739208705",
+	"ticketchannel": "769733215908397067",
+	"panelid": "931310067263877161",
+	"ticketcat": "808739692068470845",
+	"servers": {
+		"General": "SUCCESS",
+		"Donation": "SUCCESS",
+		"Staff App": "SUCCESS",
+		"Ark":  "DANGER",
+		"Empyrion": "PRIMARY",
+		"Myth of Empires": "PRIMARY",
+		"Test Ticket":  "SECONDARY"
+	}
+}
